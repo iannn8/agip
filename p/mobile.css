@@ -1,0 +1,110 @@
+@font-face {
+    font-family: Fair-Play;
+    src: url(/assets/PlayfairDisplay-VariableFont_wght.ttf);
+}
+html{
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    height: 100%;
+    background-image:linear-gradient(0deg, #FFB7CE,#020035) ;
+    background-repeat: no-repeat;
+}
+.judul{
+    list-style: none;
+    text-decoration:none;
+}
+h1{
+    position: absolute;
+    color: #FFB7CE;
+    top: 170px;
+    font-family:Fair-Play;
+}
+.judul h2{
+    position: absolute;
+    top: 200px;
+    left: 100px;
+    color: white;
+    z-index: 1;
+    text-decoration: none;
+    font-family:Fair-Play;
+    font-size:40px;
+    text-align:center;
+}
+ul{
+
+    text-decoration: none;
+    list-style: none;
+}
+
+.date1 a{
+    color: #FFB7CE;
+    background-color: white;
+    width: 135px;
+    border-radius: 10px;
+    text-align: center;
+    position: absolute;
+    left:10px;
+    top:25px;
+    font-family:Fair-Play;
+    font-size: 15px;
+    text-decoration: none;
+}
+.date2 a{
+    color: #FFB7CE;
+    position: absolute;
+    background-color: white;
+    width: 85px;
+    border-radius: 10px;
+    text-align: center;
+    top:25px;
+    font-family:Fair-Play;
+    left: 270px;
+    font-size: 15px;
+    text-decoration:none;
+    
+}
+
+
+ul li  a{
+text-decoration: none;
+}
+.navi a{
+    color:#020035;
+    background-color:white ;
+    border-radius: 50px;
+    position: absolute;
+    font-size: 20px;
+    width: 100px;
+    text-align: center;
+    top: 550px;
+    left: 10px;
+    display:inline-block;
+    font-family:Fair-Play;
+}
+.navi2 a{
+    color:#020035;
+    background-color:white;
+    border-radius: 50px;
+    position: absolute;
+    font-size: 20px;
+    width: 100px;
+    text-align: center;
+    top: 550px;
+    left:130px;
+    display:inline-block;
+    font-family:Fair-Play;
+}
+.navi3 a{
+    color:#020035;
+    background-color:white;
+    border-radius: 50px;
+    position: absolute;
+    font-size: 20px;
+    width: 100px;
+    text-align: center;
+    top: 550px;
+    left:250px;
+    display:inline-block;
+    font-family:Fair-Play;
+}

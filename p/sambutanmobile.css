@@ -1,0 +1,139 @@
+@font-face {
+    font-family: Fair-Play;
+    src: url(/assets/PlayfairDisplay-VariableFont_wght.ttf);
+}
+html{
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    height: 100%;
+    background-image:linear-gradient(0deg, #FFB7CE,#020035) ;
+    background-repeat: no-repeat;
+    
+}
+.nanta{
+    position: relative;
+    top: 50px;
+}
+.nanta img{
+width: 100px;
+position: absolute;
+top: 100px;
+left: 15px;
+border-radius: 360px;
+list-style: none;
+}
+.nanta h1{
+    list-style: none;
+    text-decoration: none;
+    font-family: Fair-Play;
+    font-size: 20px;
+    position: absolute;
+    top: 100px;
+    left:120px;
+    color:white ;
+}
+.nanta a{
+    position: absolute;
+    top: 45px;
+    color: white;
+    font-size: 15px;
+}
+.nanta h5{
+    position: absolute;
+    top:115px ;
+    color: rgb(255, 208, 0);
+    left: 120px;
+    font-size: 15px;
+}
+ul li a{
+    text-decoration: none;
+    list-style: none;
+    list-style: none;
+    text-decoration: none;
+    }
+    .navi a{
+        color:#020035;
+    background-color:white;
+        border-radius: 50px;
+        position: absolute;
+        font-size: 20px;
+        width: 100px;
+        text-align: center;
+        top: 10px;
+        left: 10px;
+        display:inline-block;
+        font-family:Fair-Play;
+        z-index: 1;
+    }
+    .navi2 a{
+        color:#020035;
+    background-color:white;
+        border-radius: 50px;
+        position: absolute;
+        font-size: 20px;
+        width: 100px;
+        text-align: center;
+        top: 10px;
+        left:130px;
+        display:inline-block;
+        font-family:Fair-Play;
+        z-index: 1;
+    }
+    .navi3 a{
+        color:#020035;
+        background-color:white;
+        border-radius: 50px;
+        position: absolute;
+        font-size: 20px;
+        width: 100px;
+        text-align: center;
+        top: 10px;
+        left:250px;
+        display:inline-block;
+        font-family:Fair-Play;
+        z-index: 1;
+    }
+    
+    .atas{
+
+        height: 2cm;
+        width: 460px;
+        position: absolute;
+        left: 0;
+        top: 0;
+    }
+.ayla{
+    position: relative;
+    top: 30px;
+}
+.ayla img{
+    width: 100px;
+    border-radius:360px;
+    position: absolute;
+    top:250px;
+    left:15px;
+}
+.ayla h1{
+    list-style: none;
+    text-decoration: none;
+    font-family: Fair-Play;
+    font-size: 20px;
+    position: absolute;
+    top: 260px;
+    left:120px;
+    color:#ffffff ;
+}
+.ayla a{
+    position: absolute;
+    top: 45px;
+    font-size: 15px;
+    color: white;
+}
+.ayla h5{
+    position: absolute;
+    top: 275px;
+    left: 120px;
+    font-size: 15px;
+    color: rgb(255, 208, 0);
+}
